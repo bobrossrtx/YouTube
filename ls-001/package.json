@@ -1,0 +1,16 @@
+{
+  "name": "ls-001",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "bin.js",
+  "scripts": {
+    "pkg": "pkg -t node14-win-x64 ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "pkg": "^4.5.1"
+  }
+}
